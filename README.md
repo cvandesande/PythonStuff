@@ -1,1 +1,3 @@
-# PythonStuff
+# README
+
+Personal repo for my journey in Python...
