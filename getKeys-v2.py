@@ -2,7 +2,7 @@
 
 # Orginally written in PowerShell by Brian Holiday
 # Modified and re-written (aka mangled) in Python by Christopher van de Sande
-# Requires Python 3.x, Requests module and awscli (pip install requests awscli)
+# Requires Python 3.x, Requests module and awscli (pip3 install requests awscli)
 # V2 -- 26.08.2017 -- Re-written to support multiple threads cross platform
 
 # This script supports username and paswword as arguments, otherwise it detects
